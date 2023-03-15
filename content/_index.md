@@ -2,11 +2,12 @@
 title = "About"
 +++
 
-# About Me
+Email: `pganguli@cs.unc.edu`
 
-My name is Prateek Ganguli and I’m a programmer. I'm currently pursuing a BTech Degree in Computer Science from Calcutta University, along with a BS Degree in Data Science from Indian Institue of Technology, Madras. The vast majority of my free time is spent studying and working on side projects.
+I am a PhD student in the [Department of Computer Science](https://cs.unc.edu) at the University of North Carolina, Chapel Hill, advised by [Samarjit Chakraborty](https://cs.unc.edu/~samarjit). My research interests include cyber physical systems and formal methods.
 
-Go check out my list of projects at [Projects]({{< ref "/projects" >}}) or my blog at [Blog]({{< ref "/blog" >}})
+Previously, I completed my bachelor's degree in Computer Science at the University of Calcutta, while simultaneously completing a bachelor's degree in Data Science at the Indian Institute of Technology, Madras.
+I also worked under [Ansuman Banerjee](https://www.isical.ac.in/~ansuman) as an undergrad research intern in the Advanced Computing and Microelectronics Unit at the Indian Statistical Institute, Kolkata.
 
 ---
 
@@ -14,6 +15,3 @@ You can find me at the following places:
 
 * LinkedIn: [@prateek-ganguli](https://www.linkedin.com/in/prateek-ganguli)
 * GitHub: [@pganguli](https://github.com/pganguli)
-* Kaggle: [@prateekganguli](https://www.kaggle.com/prateekganguli)
-* YouTube: [@pganguli](https://www.youtube.com/@pganguli)
-* Debian Wiki: [PrateekGanguli](https://wiki.debian.org/PrateekGanguli)
